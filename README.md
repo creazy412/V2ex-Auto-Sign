@@ -24,7 +24,7 @@
 打开[代码链接](https://github.com/Wenmoux/V2ex-Auto-Sign)并Fork我的仓库
 ![fork源代码](https://cdn.jsdelivr.net/gh/Wenmoux/wenpic/IMG_20200608_085223.jpg)
 
-##  Step 2 设置Cookie
+##  Step 2 设置Cookie  
 
 fork完之后,如图点击<font color="red">Settings</font>
 ![](https://cdn.jsdelivr.net/gh/Wenmoux/wenpic/IMG_20200608_085340.jpg)
